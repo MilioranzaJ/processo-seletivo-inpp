@@ -1,4 +1,5 @@
 Análise de Dados Ambientais - Pantanal
+
 Este projeto foi desenvolvido com o objetivo de realizar a análise de dados ambientais fictícios do Pantanal durante o mês de janeiro de 2025. A base utilizada contém informações de temperatura, nível do rio e índice NDVI, permitindo explorar etapas de limpeza, tratamento, análise estatística e visualização de dados.
 Tecnologias Utilizadas
 
